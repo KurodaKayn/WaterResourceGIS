@@ -1,0 +1,9 @@
+app:
+  name: Water Resource GIS
+  env: development
+
+database:
+  url: postgresql+psycopg://postgres:postgres@localhost:5432/water_resource_gis
+
+redis:
+  url: redis://localhost:6379/0

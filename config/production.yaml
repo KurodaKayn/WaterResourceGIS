@@ -1,0 +1,3 @@
+app:
+  name: Water Resource GIS
+  env: production
